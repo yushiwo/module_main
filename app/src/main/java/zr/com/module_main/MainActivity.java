@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void initView() {
         mContentTextView = findViewById(R.id.tv_content);
-        mContentTextView.setText(LibTest.getLibStr() + "main2");
+        mContentTextView.setText(LibTest.getLibStr() + "main3");
     }
 }
